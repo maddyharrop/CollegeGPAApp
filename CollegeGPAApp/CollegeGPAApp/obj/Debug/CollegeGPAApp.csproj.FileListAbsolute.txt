@@ -1,0 +1,14 @@
+C:\Users\madel\source\repos\CollegeGPAApp\CollegeGPAApp\bin\Debug\CollegeGPAApp.exe.config
+C:\Users\madel\source\repos\CollegeGPAApp\CollegeGPAApp\bin\Debug\CollegeGPAApp.exe
+C:\Users\madel\source\repos\CollegeGPAApp\CollegeGPAApp\bin\Debug\CollegeGPAApp.pdb
+C:\Users\madel\source\repos\CollegeGPAApp\CollegeGPAApp\obj\Debug\CollegeGPAApp.csprojAssemblyReference.cache
+C:\Users\madel\source\repos\CollegeGPAApp\CollegeGPAApp\obj\Debug\CollegeGPAApp.csproj.CoreCompileInputs.cache
+C:\Users\madel\source\repos\CollegeGPAApp\CollegeGPAApp\obj\Debug\CollegeGPAApp.exe
+C:\Users\madel\source\repos\CollegeGPAApp\CollegeGPAApp\obj\Debug\CollegeGPAApp.pdb
+C:\Users\madel\Desktop\Code\CollegeGPAApp\CollegeGPAApp\CollegeGPAApp\bin\Debug\CollegeGPAApp.exe.config
+C:\Users\madel\Desktop\Code\CollegeGPAApp\CollegeGPAApp\CollegeGPAApp\bin\Debug\CollegeGPAApp.exe
+C:\Users\madel\Desktop\Code\CollegeGPAApp\CollegeGPAApp\CollegeGPAApp\bin\Debug\CollegeGPAApp.pdb
+C:\Users\madel\Desktop\Code\CollegeGPAApp\CollegeGPAApp\CollegeGPAApp\obj\Debug\CollegeGPAApp.csprojAssemblyReference.cache
+C:\Users\madel\Desktop\Code\CollegeGPAApp\CollegeGPAApp\CollegeGPAApp\obj\Debug\CollegeGPAApp.csproj.CoreCompileInputs.cache
+C:\Users\madel\Desktop\Code\CollegeGPAApp\CollegeGPAApp\CollegeGPAApp\obj\Debug\CollegeGPAApp.exe
+C:\Users\madel\Desktop\Code\CollegeGPAApp\CollegeGPAApp\CollegeGPAApp\obj\Debug\CollegeGPAApp.pdb
